@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\bin\Debug\net6.0\Hazır-metotlar-string.exe
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\bin\Debug\net6.0\Hazır-metotlar-string.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\bin\Debug\net6.0\Hazır-metotlar-string.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\bin\Debug\net6.0\Hazır-metotlar-string.dll
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\bin\Debug\net6.0\Hazır-metotlar-string.pdb
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.dll
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\refint\Hazır-metotlar-string.dll
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.pdb
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\Hazır-metotlar-string.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Hazır-metotlar-string\obj\Debug\net6.0\ref\Hazır-metotlar-string.dll
